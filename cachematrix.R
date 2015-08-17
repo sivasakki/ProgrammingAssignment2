@@ -55,3 +55,5 @@ invMatrix=function(x){
     cacheSolve(makeCacheMatrix(rbind(c(1,-1/2),c(-1/2,1))))
     cacheSolve(x)
 }
+
+## Adding SHA1
